@@ -1,6 +1,6 @@
 # Introduction
 
-Adobe Photoshop 2021 Basics | Windows Edition. Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
+Adobe Photoshop 2023 Basics | Windows Edition. Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
 
 ## About
 
