@@ -1,10 +1,8 @@
 # Introduction
 
-Adobe Photoshop 2024 Basics | Windows Edition. Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
-
 ## About
 
-Adobe Photoshop 2017 Basics for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
+Adobe Photoshop 2025 Basics | Windows Edition. Instructions for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
 
 ## Credits
 
